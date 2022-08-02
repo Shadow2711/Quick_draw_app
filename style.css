@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(151, 238, 21);
+}
+h1{
+    font-weight: bold;
+}
+#score{
+    float: left;
+    font-size: 30px;
+    margin-left: 10px;
+}
+#timer{
+    float: right;
+    font-size: 30px;
+    margin-right: 100px;
+}
+#sketch_hint{
+    font-size: 25px;
+    color: white;
+}
+canvas{
+    padding-top: 50px;
+}
